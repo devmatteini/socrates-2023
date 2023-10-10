@@ -14,50 +14,53 @@ mdc: true
 ## todo subtitle?
 
 ---
+layout: statement
+---
 
-# Who am I?
+# What is Effect?
 
-TODO:
-
-- Name
-- social links
-- doubleloop
+Effect is a TypeScript library for building application with concurrency, error handling, observability and
+composability...and many more things!
 
 ---
 
 # Why Effect?
 
-TODO:
+We are using `fp-ts` in production and we like it.
 
-- fp-ts users
-- fp-ts + effect merge in febraury
-- using effect in production since april
+At the end of february 2023, `fp-ts` was merged into the Effect ecosystem.
+
+Even if Effect 1.0 is far away, we've been using Effect in production since april!
 
 ---
 
 # Effect features
 
-TODO:
+<img src="/effect-features.png" />
 
-- add image from excalidraw with effect features
 
 ---
 
 # We are going to focus on...
 
-TODO:
+<img src="/effect-talk-focus-on.png" />
 
-- add image from excalidraw with focused features
-
+---
+layout: center
 ---
 
 # Let's start coding!
 
 ---
+layout: center
+---
 
 # Conclusion
 
-TODO:
+- slides: https://github.com/devmatteini/socrates-2023
+- source code: https://github.com/devmatteini/football-calendar
 
-- link to slides
-- link to repo football-calendar
+Other useful links:
+
+- Effect: https://www.effect.website/
+- From fp-ts to Effect: https://github.com/devmatteini/from-fp-ts-to-effect-ts
