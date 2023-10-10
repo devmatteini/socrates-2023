@@ -14,6 +14,21 @@ mdc: true
 ## todo subtitle?
 
 ---
+
+# Introduction
+
+<div class="flex">
+    Cosimo Matteini, software developer at <img src="/doubleloop.svg" class="ml-1 h-6 self-end">
+</div>
+
+<br/>
+
+- <mdi-web class="mr-1" /> [cosimomatteini.com](https://cosimomatteini.com)
+- <mdi-github class="mr-1" /> [@devmatteini](https://github.com/devmatteini)
+- <mdi-mastodon class="mr-1" /> [@cosimomatteini](https://hachyderm.io/@cosimomatteini)
+- <mdi-twitter class="mr-1" /> [@MatteiniCosimo](https://twitter.com/MatteiniCosimo)
+
+---
 layout: statement
 ---
 
