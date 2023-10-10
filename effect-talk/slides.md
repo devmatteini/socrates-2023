@@ -46,6 +46,16 @@ Even if Effect 1.0 is far away, we've been using Effect in production since apri
 <img src="/effect-talk-focus-on.png" />
 
 ---
+
+# Sample application: football-calendar
+
+<div class="flex items-center mb-5">
+    <mdi-github class="mr-1" /> <a href="https://github.com/devmatteini/football-calendar" target="_blank">devmatteini/football-calendar</a>
+</div>
+
+<img src="/football-calendar-architecture.png">
+
+---
 layout: center
 ---
 
