@@ -7,6 +7,7 @@ drawings:
   persist: false
 transition: slide-left
 mdc: true
+title: Build applications with Effect 
 ---
 
 <h1 class="flex items-center">
@@ -18,7 +19,7 @@ mdc: true
 # Introduction
 
 <div class="flex">
-    Cosimo Matteini, software developer at <img src="/doubleloop.svg" class="ml-1 h-6 self-end">
+    I'm Cosimo Matteini, software developer at <img src="/doubleloop.svg" class="ml-2 h-8 self-end">
 </div>
 
 <br/>
@@ -41,11 +42,11 @@ composability...and many more things!
 
 # Why Effect?
 
-We are using `fp-ts` in production and we like it.
+We are using `fp-ts` in production for a couple of years and we like it.
 
 At the end of february 2023, `fp-ts` was merged into the Effect ecosystem.
 
-Even if Effect 1.0 is far away, we've been using Effect in production since april!
+Even if Effect 2.0 is far away, we've been using Effect in production since april 🚀!
 
 ---
 
