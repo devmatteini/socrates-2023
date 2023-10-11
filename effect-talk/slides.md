@@ -9,9 +9,9 @@ transition: slide-left
 mdc: true
 ---
 
-# TODO TALK TITLE
-
-## todo subtitle?
+<h1 class="flex items-center">
+  Build applications with <EffectLogo />
+</h1>
 
 ---
 
