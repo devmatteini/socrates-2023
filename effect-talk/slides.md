@@ -14,6 +14,10 @@ title: Build applications with Effect
   Build applications with <EffectLogo />
 </h1>
 
+<h3 class="flex">
+  Cosimo Matteini • <img src="/doubleloop.png" class="ml-2 h-8 self-end">
+</h3>
+
 ---
 layout: statement
 ---
