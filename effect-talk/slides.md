@@ -39,7 +39,7 @@ At the end of february 2023, `fp-ts` was merged into the Effect ecosystem.
 
 <br/>
 
-Even if Effect 2.0 is far away, we've been using Effect in production since april/may 🚀!
+Even if Effect 1.0 is far away, we've been using Effect in production since april/may 🚀!
 
 ---
 
