@@ -24,14 +24,18 @@ layout: statement
 
 # What is Effect?
 
-Effect is a TypeScript library for building application with concurrency, error handling, observability and
-composability...and many more things!
+Effect is a TypeScript library that enables to safely build complex and composable applications. 
 
 ---
 
 # Why Effect?
 
-We are using `fp-ts` in production for a couple of years and we like it.
+TypeScript + Functional Programming = `fp-ts`
+
+<br/>
+
+
+We have been using `fp-ts` in production for a couple of years and we like it.
 
 <br/>
 
@@ -82,5 +86,7 @@ layout: center
 
 Other useful links:
 
-- Effect: https://www.effect.website/
-- From fp-ts to Effect: https://github.com/devmatteini/from-fp-ts-to-effect-ts
+- https://www.effect.website/
+- https://github.com/devmatteini/from-fp-ts-to-effect-ts
+- https://github.com/antoine-coulon/effect-introduction
+- https://github.com/pigoz/effect-crashcourse
